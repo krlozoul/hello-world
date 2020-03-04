@@ -1,3 +1,2 @@
-# hello-world
+# Market Basket Analysis en R
 
-Begining at Github
